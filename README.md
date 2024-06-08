@@ -8,7 +8,6 @@
 - 💡 Transforming ideas into innovative projects<br>
 - ☕ Tea to fuel up my coding sessions<br>
 
-<br>
 
 <h2  align="center" >Technology Stack 🚀 </h2>
 <p align="center">
