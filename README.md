@@ -1,12 +1,14 @@
 ![Banner](https://github.com/ioadda/ioadda/raw/main/banner.jpg)
 
+<br>
+
+
 <h2  align="center">About me ✨</h2>
 - 🌱 Lifelong learner, exploring new programming languages and web frameworks<br>
 - 💡 Transforming ideas into innovative projects<br>
 - ☕ Tea to fuel up my coding sessions<br>
 
----
-
+<br>
 
 <h2  align="center" >Technology Stack 🚀 </h2>
 <p align="center">
