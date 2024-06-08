@@ -6,7 +6,7 @@
 - ☕ Tea to fuel up my coding sessions<br>
 
 
-<h2  align="center" >Technology Stack </h2>
+<h2  align="center" >Technology Stack 🚀 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=html,react,css,js,nodejs,mongodb,express,bootstrap,figma,postman,docker,azure,py,selenium,vscode&theme=light&perline=6"/>
