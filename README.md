@@ -1,4 +1,4 @@
-<img src=https://github.com/ioadda/ioadda/blob/main/banner.jpg">
+
 
 
 - 🌱 Lifelong learner, exploring new programming languages and web frameworks
