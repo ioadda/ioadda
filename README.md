@@ -1,4 +1,4 @@
-### Hi there, I'm Adda 👋
+
 
 
 - 🌱 Lifelong learner, exploring new programming languages and web frameworks
