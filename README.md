@@ -1,11 +1,10 @@
 
 
 <h2>About me</h2>
-- 🌱 Lifelong learner, exploring new programming languages and web frameworks
-- 💡 Transforming ideas into innovative projects
-- ☕ Tea to fuel up my coding sessions
+- 🌱 Lifelong learner, exploring new programming languages and web frameworks<br>
+- 💡 Transforming ideas into innovative projects<br>
+- ☕ Tea to fuel up my coding sessions<br>
 
-------
 
 <h2>Skills</h2>
 <p align="center">
