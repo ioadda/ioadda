@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/ioadda/ioadda/raw/main/banner.jpg)
 
 <h2>About me</h2>
 - 🌱 Lifelong learner, exploring new programming languages and web frameworks<br>
